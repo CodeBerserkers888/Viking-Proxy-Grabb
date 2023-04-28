@@ -1,5 +1,8 @@
-# Viking-Proxy-Grabb
-Viking Proxy Grabber 2022 Win/Linux 
+<div align="center">
+  <img src="https://drive.google.com/uc?id=152rz4oQesWFcPHbJHCMUlAueJFb4zM1d" alt="Logo" width="180" height="180">
+</div>
+
+#Viking Proxy Grabber 2022 Win/Linux 
 
 *Program testing on Windows 10/11 and Linux Ubuntu / Kali
 
